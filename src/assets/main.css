@@ -1,0 +1,9 @@
+@import "./reset.css";
+
+.v-row {
+  margin: 0;
+}
+
+.v-row + .v-row {
+  margin: 0;
+}
